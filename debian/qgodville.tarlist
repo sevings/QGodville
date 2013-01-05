@@ -1,0 +1,17 @@
+755 root root . usr /
+755 root root . usr/bin /
+755 root root . usr/bin/qgodville /
+755 root root . usr/bin/qgodville/qgodville_en.qm debian/qgodville/usr/bin/qgodville/qgodville_en.qm
+755 root root . usr/bin/qgodville/qgodville debian/qgodville/usr/bin/qgodville/qgodville
+755 root root . usr/share /
+755 root root . usr/share/doc /
+755 root root . usr/share/doc/qgodville /
+644 root root . usr/share/doc/qgodville/copyright debian/qgodville/usr/share/doc/qgodville/copyright
+755 root root . usr/share/applications /
+755 root root . usr/share/applications/hildon /
+644 root root . usr/share/applications/hildon/qgodville.desktop debian/qgodville/usr/share/applications/hildon/qgodville.desktop
+755 root root . usr/share/icons /
+755 root root . usr/share/icons/hicolor /
+755 root root . usr/share/icons/hicolor/48x48 /
+755 root root . usr/share/icons/hicolor/48x48/apps /
+644 root root . usr/share/icons/hicolor/48x48/apps/qgodville.png debian/qgodville/usr/share/icons/hicolor/48x48/apps/qgodville.png
